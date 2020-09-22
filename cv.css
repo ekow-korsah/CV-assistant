@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.address{
+    text-align: center;
+}
+
+.line {
+    position: absolute;
+    background-color: #000000;
+  }
+  
+  .horizontal {
+     width: 85%;
+     height: 3px;
+     margin-top: 120px;
+
+  }
+  
+  #line2 {
+     top: 4%;
+     left: 8%;
+     right: 8%;
+  }
+
+  .objectives{
+      margin-top: 3.5%;
+      margin-left: 8%;
+  }
+
+.obje{
+    margin-top: 1%;
+    margin-left: 8%;
+}
+
+.sch{
+    margin-left: 8%;
+    display: flex;
+}
+
+.one{
+    margin-left: 63%;
+}
+
+.two{
+    margin-left: 50%;
+}
+
+.sch1{
+    margin-top: 1.5%;
+    margin-left: 8%;
+    display: flex;
+}
+
+.three{
+    margin-left: 61%;
+}
+
+.achievment{
+    margin-top: -25px;
+}
+
+.horizontal1 {
+    width: 85%;
+    height: 3px;
+    margin-top: 272px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line1 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .sch-2{
+     margin-top: 10px;
+     margin-left: 8%;
+     display: flex;
+ }
+
+ .one-1{
+     margin-left: 27%;
+ }
+
+ .one-2{
+     margin-left:59.5%;
+ }
+
+ .horizontal3 {
+    width: 85%;
+    height: 3px;
+    margin-top: 380px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line3 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .work{
+    margin-top: -30px;
+}
+.sch-3{
+    margin-top: 10px;
+    margin-left: 8%;
+    display: flex;
+}
+
+.one-3{
+    margin-left: 55.5%;
+}
+
+.m{
+    margin-left:8% ;
+}
+
+.works{
+    margin-left: 6.5%;
+}
+
+.one-4{
+    margin-left: 62%;
+}
+
+.one-5{
+    margin-left: 65.1%;
+}
+
+.projects{
+    margin-top: -30px;
+}
+
+.horizontal4 {
+    width: 85%;
+    height: 3px;
+    margin-top: 733px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line4 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .one-6{
+    margin-left: 68%;
+}
+
+.activities{
+    margin-top: -30px;
+}
+
+.horizontal5 {
+    width: 85%;
+    height: 3px;
+    margin-top: 853px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line5 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .one-7{
+    margin-left: 49%;
+}
+
+.one-8{
+    margin-left: 44.5%;
+}
+
+.horizontal6 {
+    width: 85%;
+    height: 3px;
+    margin-top: 1060px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line6 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .skills{
+     margin-top: -30px;
+ }
+
+.skill{
+    margin-top: 10px;
+    margin-left:6.5%;
+}
+
+.horizontal7 {
+    width: 85%;
+    height: 3px;
+    margin-top: 1147px;
+    /* margin-left: -50px; */
+ }
+ 
+ #line7 {
+    top: 4%;
+    left: 8%;
+    right: 8%;
+ }
+
+ .ref{
+     margin-top: -30px;
+ }
+ .ava{
+     margin-top: 10px;
+     margin-left: 8%;
+ }
+
+ .was{
+     margin-left: 8%;
+     margin-top: 15px;
+ }
+
+ .de{
+     margin-left: 8%;
+     margin-top: 0.5%;
+     margin-bottom: 70px;
+ }
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+  

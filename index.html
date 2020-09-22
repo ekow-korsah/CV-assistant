@@ -1,0 +1,122 @@
+<!-- Nana Ekow Baah Korsah -->
+<!-- 37462022 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashesi Cv Template</title>
+    
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <img src="./logo-mobile_colored.png" alt="" class="logo">
+
+    <h2 class="cv">CURRICULUM VITAE ASSISTANT</h2>
+    
+    <form id="work" method="POST" action="cv.html">
+        <div class="names">
+            <div class="first">
+                <p class="firstname">Firstname</p>
+                <input name="fname" id="firsts">
+            </div>
+            <div class="middle">
+                <p class="middle">Middle</p>
+                <input type="text" name="middle_name" id="m">
+            </div>
+            <div class="last">
+                <p class="lastname">Lastname</p>
+                <input type="text" name="lastname" id="l">
+            </div>
+        </div>
+
+        <div class="names-e">
+            <div class="first-e" id="first-e">
+
+            </div>
+            <div class="middle-e" id="middle-e">
+
+            </div>
+            <div class="last-e" id="last-e">
+
+            </div>
+        </div>
+
+        <div class="address">
+            <p class="address">Address</p>
+            <input type="text" name="address_" id="a">
+        </div>
+
+        <div class="address-e" id="address-e">
+
+        </div>
+
+        <div class="emails">
+            <div class="emai">
+                <p class="email">Email</p>
+                <input type="text" name="email_" id="e">
+            </div>
+            <div class="email-1">
+                <p class="email">Alternate Email</p>
+                <input type="text" name="email-1" id="e-1">
+            </div>
+        </div>
+
+        <div class="emails-e">
+            <div class="emai-e" id="emai-e">
+       
+            </div>
+            <div class="email-1-e" id="email-1-e">
+      
+            </div>
+        </div>
+
+        <div class="numbers">
+            <div class="numb">
+                <p class="email">Tel</p>
+                <input type="text" name="number" id="number">
+            </div>
+            <div class="number-1">
+                <p class="email">Alt Tel</p>
+                <input type="text" name="number-1" id="number-1">
+            </div>
+        </div>
+
+        <div class="numbers-e">
+            <div class="numb-e" id="numb-e">
+           
+            </div>
+            <div class="number-1-e" id="number-1-e">
+   
+            </div>
+        </div>
+
+
+        <div class="gen">
+            <p class="gender">Gender</p>
+            <input type="text" list="browser" name="brow" id="b">
+                <datalist id="browser">
+                    <option value="Male">
+                    <option value="Female">
+                </datalist>
+        </div>
+
+        <div class="gender-e" id="gender-e">
+           
+        </div>
+
+
+        <button type = "submit" value = "add" class="woosh" onclick=onSubmit()>Send Details to CV</button>
+    </form>
+
+
+    <button class="btn" onclick="window.location.href='./cv.html'">Cick to see CV</button>
+   
+
+    <script src="./main.js"></script>
+
+</body>
+</html>

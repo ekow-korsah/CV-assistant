@@ -1,0 +1,189 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cv{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+
+.names{
+    display: flex;
+    margin-left: 10%;
+}
+input:focus, textarea { outline: none ! important; }
+
+
+.first >input{
+    width: 200%;
+    height: 20px;
+}
+
+.middle{
+    margin-left: 20%;
+}
+
+.middle >input{
+    width: 200%;
+    height: 20px;
+}
+
+.last{
+    margin-left: 20%;
+}
+
+.last >input{
+    width: 200%;
+    height: 20px;
+}
+
+.names-e{
+    display: flex;
+    margin-left: 10%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.middle-e{
+    margin-left: 18%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.last-e{
+    margin-left: 18%;
+    color: red;
+    text-decoration: underline;
+}
+
+.address > p{
+    margin-left: 10%;
+}
+
+.address > input{
+    margin-left: 10%;
+    width: 79%;
+    height: 30px;
+}
+.address-e{
+    margin-left: 10%;
+    color: red;
+    text-decoration: underline;
+}
+
+.emails{
+    display: flex;
+    margin-left: 30%;
+}
+
+.emai > input{
+    width: 200%;
+    height: 20px;
+}
+.email-1{
+    margin-left: 20%;
+}
+
+.email-1 >input{
+    width: 200%;
+    height: 20px;
+}
+.emails-e{
+    display: flex;
+    margin-left: 30%;
+    color: red;
+    text-decoration: underline;
+}
+
+.email-1-e{
+    margin-left: 30%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+.numbers{
+    display: flex;
+    margin-left: 30%;
+}
+
+.numb > input{
+    width: 200%;
+    height: 20px;
+}
+.number-1{
+    margin-left: 20%;
+}
+
+.number-1 >input{
+    width: 200%;
+    height: 20px;
+}
+
+
+.numbers-e{
+    display: flex;
+    margin-left: 30%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.number-1-e{
+    margin-left: 18%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.woosh{
+    border: 2px solid rgb(197, 103, 40);
+    width: 100px;
+    height: 60px;
+    background-color: none;
+    color: black;
+    background: none;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-left:50%;
+    margin-top: 2%;
+}
+
+.gen{
+    margin-left: 48%;
+}
+
+.gender{
+    margin-left: 50px;
+}
+
+.gender-e{
+    margin-left: 48%;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.btn{
+    border: 2px solid rgb(197, 103, 40);
+    width: 150px;
+    height: 60px;
+    background-color: none;
+    color: black;
+    background: none;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 49%;
+    margin-top: 1%;
+}
